@@ -34,4 +34,3 @@ A visual tool for planning and documenting dance choreography by placing and arr
 - `app.js` - Application logic and canvas rendering
 - `foot-imprint-left.png` - Left foot image
 - `foot-imprint-right.png` - Right foot image
-# dance-feet-position-maker
